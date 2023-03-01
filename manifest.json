@@ -1,7 +1,7 @@
 {
     "name": "Wall-E-Dev",
     "short_name": "Wall-E-Dev",
-    "start_url": "https://akhokhariya.github.io/wall-e-demo/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
