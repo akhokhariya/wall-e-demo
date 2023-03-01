@@ -36,10 +36,10 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "main.dart.js",
-"index.html",
-"assets/AssetManifest.json",
-"assets/FontManifest.json"];
+  "https://akhokhariya.github.io/wall-e-demo/main.dart.js",
+"https://akhokhariya.github.io/wall-e-demo/index.html",
+"https://akhokhariya.github.io/wall-e-demo/assets/AssetManifest.json",
+"https://akhokhariya.github.io/wall-e-demo/assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
